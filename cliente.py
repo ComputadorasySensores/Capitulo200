@@ -3,7 +3,7 @@ import time
 
 # Establece cliente UDP
 socket_cliente = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-IP_servidor = ('192.168.1.95', 5000)  # IP y Puerto del servidor
+IP_servidor = ('192.xxx.xxx.xxx', 5000)  # IP y Puerto del servidor
 
 while True:
     # Envia peticion al servidor
