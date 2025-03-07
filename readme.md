@@ -8,4 +8,5 @@ Código en Python para el cliente PC
 
 # Paso a paso
 
-La explicación completa la podrás ver en el siguiente video de Youtube:
+La explicación completa la podrás ver en el siguiente video de YouTube:
+https://youtu.be/Px8h9yvIB2E
